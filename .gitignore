@@ -1,0 +1,4 @@
+*/test_genai/          # Enviroment folder
+*.env   # environment variables
+LangChain/5-VectorStore/chroma_db/
+*.bin
